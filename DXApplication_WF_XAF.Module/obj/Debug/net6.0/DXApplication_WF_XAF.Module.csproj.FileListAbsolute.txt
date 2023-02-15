@@ -1,0 +1,12 @@
+C:\Users\cuong\source\repos\DXApplication_WF_XAF\DXApplication_WF_XAF.Module\bin\Debug\net6.0\DXApplication_WF_XAF.Module.deps.json
+C:\Users\cuong\source\repos\DXApplication_WF_XAF\DXApplication_WF_XAF.Module\bin\Debug\net6.0\DXApplication_WF_XAF.Module.dll
+C:\Users\cuong\source\repos\DXApplication_WF_XAF\DXApplication_WF_XAF.Module\bin\Debug\net6.0\DXApplication_WF_XAF.Module.pdb
+C:\Users\cuong\source\repos\DXApplication_WF_XAF\DXApplication_WF_XAF.Module\obj\Debug\net6.0\DXApplication_WF_XAF.Module.csproj.AssemblyReference.cache
+C:\Users\cuong\source\repos\DXApplication_WF_XAF\DXApplication_WF_XAF.Module\obj\Debug\net6.0\DXApplication_WF_XAF.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cuong\source\repos\DXApplication_WF_XAF\DXApplication_WF_XAF.Module\obj\Debug\net6.0\DXApplication_WF_XAF.Module.AssemblyInfoInputs.cache
+C:\Users\cuong\source\repos\DXApplication_WF_XAF\DXApplication_WF_XAF.Module\obj\Debug\net6.0\DXApplication_WF_XAF.Module.AssemblyInfo.cs
+C:\Users\cuong\source\repos\DXApplication_WF_XAF\DXApplication_WF_XAF.Module\obj\Debug\net6.0\DXApplication_WF_XAF.Module.csproj.CoreCompileInputs.cache
+C:\Users\cuong\source\repos\DXApplication_WF_XAF\DXApplication_WF_XAF.Module\obj\Debug\net6.0\DXApplication_WF_XAF.Module.dll
+C:\Users\cuong\source\repos\DXApplication_WF_XAF\DXApplication_WF_XAF.Module\obj\Debug\net6.0\refint\DXApplication_WF_XAF.Module.dll
+C:\Users\cuong\source\repos\DXApplication_WF_XAF\DXApplication_WF_XAF.Module\obj\Debug\net6.0\DXApplication_WF_XAF.Module.pdb
+C:\Users\cuong\source\repos\DXApplication_WF_XAF\DXApplication_WF_XAF.Module\obj\Debug\net6.0\ref\DXApplication_WF_XAF.Module.dll
